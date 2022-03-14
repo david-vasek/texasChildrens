@@ -71,6 +71,10 @@ nav {
                       padding: 1.5rem 2rem;
                       border-radius: 0;
                       background: linear-gradient($primary-color-variant, darken($primary-color-variant, 12%));
+                  };
+
+                  &.btn {
+                      background: $secondary-color;
                   }
               }
           }

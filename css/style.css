@@ -204,7 +204,10 @@ nav .container .nav_logo h3 {
     padding: 1.5rem 2rem;
     border-radius: 0;
     background: -webkit-gradient(linear, left top, left bottom, from(#4cc9f0), to(#14b8eb));
-    background: linear-gradient(#791212, #ff0000);
+    background: linear-gradient(#4cc9f0, #14b8eb);
+  }
+  nav .container ul li.btn {
+    background: #f72585;
   }
 }
 /*# sourceMappingURL=style.css.map */
